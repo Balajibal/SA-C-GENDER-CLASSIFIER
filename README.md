@@ -1,17 +1,19 @@
 # SA-C-GENDER-CLASSIFIER
 # Algorithm
-1.Import required packages
-2.Load the image into the model
-3.Train the model
-4.Select age,gender,emotion as attribute using deepFace
-5.The program is executed and output is shown
+1.Import the required packages
+
+2.Install deepFace
+
+3.Read the image
+
+4.Select age,gender,emotion as attribute
 
 ## Program:
+```python
 /*
-```
+Program to implement Age,Emotion,Gender Classification
 Developed by   : Balaji N
 RegisterNumber :  212220230006
-```
 */
 ```python
 from deepface import DeepFace
