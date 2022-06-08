@@ -7,11 +7,10 @@
 5.The program is executed and output is shown
 
 ## Program:
-```
+/*
 Developed by   : Balaji N
 RegisterNumber :  212220230006
 */
-```
 ```python
 from deepface import DeepFace
 import cv2 
