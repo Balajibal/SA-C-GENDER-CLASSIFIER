@@ -8,6 +8,8 @@
 
 4.Select age,gender,emotion as attribute
 
+5.Face is analyzed and output is shown
+
 ## Program:
 ```python
 /*
