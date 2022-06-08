@@ -1,9 +1,5 @@
 # SA-C-GENDER-CLASSIFIER
 # Algorithm
-1.
-2.
-3.
-4.
 1.Import required packages
 2.Load the image into the model
 3.Train the model
@@ -12,8 +8,8 @@
 
 ## Program:
 ```
-@@ -13,12 +14,35 @@ Developed by   :
-RegisterNumber :  
+Developed by   : Balaji N
+RegisterNumber :  212220230006
 */
 ```
 ```python
