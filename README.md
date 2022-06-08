@@ -29,6 +29,7 @@ print("Emotion : ",result2['emotion'])
 ## OUTPUT:
 ```
 /*
+```
 1. CODE :
 ![SKILL ASSESSMENT OUTPUT](XXX.png)
 ![Screenshot (210)](https://user-images.githubusercontent.com/75234946/172541086-7f86e8ea-3b04-4299-80d2-0e29204a27c8.png)
@@ -37,6 +38,7 @@ print("Emotion : ",result2['emotion'])
 ![Screenshot (208)](https://user-images.githubusercontent.com/75234946/172541531-edff47aa-1de2-436a-820d-39191ba6f007.png)
 ![Screenshot (209)](https://user-images.githubusercontent.com/75234946/172541579-77df8722-150e-4c99-bbfd-6d635da04c32.png)
 2. DEMO VIDEO YOUTUBE LINK:
+3. ```
 
 */
 ```
