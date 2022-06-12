@@ -32,7 +32,6 @@ print("Emotion : ",result2['emotion'])
 ```
 
 ## OUTPUT:
-## OUTPUT:
 
 1. CODE :
 
